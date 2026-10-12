@@ -34,7 +34,7 @@ export default function App() {
     },
     {
       id: '2',
-      name: 'Chicken Srir-Fry',
+      name: 'Chicken Stir-Fry',
       description: 'Tender chicken breast with a sweet soy sauce and vegetables.',
       course: 'Main Course',
       price: 130.00,
